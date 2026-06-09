@@ -26,5 +26,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ${{ secrets.DOCKER_USERNAME }}/lab5-app:latest
-            ${{ secrets.DOCKER_USERNAME }}/lab5-app:${{ github.sha }}
+            dionissiy/lab5-app:latest
+            dionissiy/lab5-app:${{ github.sha }}
