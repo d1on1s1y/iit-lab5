@@ -1,6 +1,6 @@
 body {
-    background-color: #261e2e;
-    color: #e1cdf4;
+    background-color: #212e1e;
+    color: #d9f4cd;
     font-family: sans-serif;
     display: flex;
     flex-direction: column;
@@ -18,12 +18,12 @@ body {
 }
 button {
     padding: 10px 20px;
-    background-color: #89b4fa;
+    background-color: #adfa89;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     font-weight: bold;
 }
 button:hover {
-    background-color: #b4befe;
+    background-color: #c3feb4;
 }
